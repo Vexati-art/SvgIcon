@@ -1,7 +1,5 @@
 
 
-<?xml version="1.0" 
-	  encoding="utf-8"?>
 <svg xml:space="preserve" 
      viewBox="0 0 100 100" 
      y="0px" x="0px" 
