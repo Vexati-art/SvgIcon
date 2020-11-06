@@ -1,24 +1,23 @@
 
+<link rel="stylesheet" href="style.css">
 
-<svg xml:space="preserve" 
-     viewBox="0 0 100 100" 
-     y="0px" x="0px" 
-     id="svg_1" 
-     width="300" 
-     height="300" 
-     style="width:100%;height:100%;background-size:initial;background-repeat-y:initial;background-repeat-x:initial;background-position-y:initial;background-position-x:initial;background-origin:initial;background-image:initial;background-color:rgb(255, 255, 255);background-clip:initial;background-attachment:initial;animation-play-state:paused" >
-<g class="ldl-scale" 
-   style="transform-origin:50% 50%;transform:rotate(0deg) scale(0.8, 0.8);animation-play-state:paused" >
+<svg width="200" height="200" viewBox="0 0 100 100" style="stroke-width: 1px;
+stroke:black">
+    
+   <path fill="#d9bf1a" d="M92.71,7.27L92.71,7.27c-9.71-9.69-25.46-9.69-35.18,0L50,14.79l-7.54-7.52C32.75-2.42,17-2.42,7.29,7.27v0 c-9.71,9.69-9.71,25.41,0,35.1L50,85l42.71-42.63C102.43,32.68,102.43,16.96,92.71,7.27z"
+   stroke-miterlimit="3"    
+   stroke-width="3.5"
+   
+   ></path>
+  
+   <animateTransform 
+       attributeName="transform" 
+       type="scale" 
+       values="1; 1.5; 1.25; 1.5; 1.5; 1;" 
+       dur="1s" 
+       repeatCount="indefinite">      
+   </animateTransform>
 
-<path d="M85.6,31.4C95.5,58.8,64.8,77.7,50,81.7c-14.9-4-45.4-22.9-35.6-50.3c6.2-17.4,30.2-17.4,35.6-1.1C54.8,14.1,79.3,14.1,85.6,31.4z"
-      stroke-miterlimit="5"    
-      stroke-width="3.5"
-      stroke="#333435" 
-      fill="#C33837" 
-      style="stroke:rgb(51, 52, 53);
-     		 fill: #d9bf1a
-
-;animation-play-state:paused" ></path>
-
-</g>
 </svg>
+
+
